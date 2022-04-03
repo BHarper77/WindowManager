@@ -1,0 +1,12 @@
+D:\Documents\Projects\HotkeysDemo\WpfLibrary\obj\Debug\net6.0-windows\Library.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Projects\HotkeysDemo\WpfLibrary\obj\Debug\net6.0-windows\Library.AssemblyInfoInputs.cache
+D:\Documents\Projects\HotkeysDemo\WpfLibrary\obj\Debug\net6.0-windows\Library.AssemblyInfo.cs
+D:\Documents\Projects\HotkeysDemo\WpfLibrary\obj\Debug\net6.0-windows\Library.csproj.CoreCompileInputs.cache
+D:\Documents\Projects\HotkeysDemo\WpfLibrary\bin\Debug\net6.0-windows\Library.deps.json
+D:\Documents\Projects\HotkeysDemo\WpfLibrary\bin\Debug\net6.0-windows\Library.dll
+D:\Documents\Projects\HotkeysDemo\WpfLibrary\bin\Debug\net6.0-windows\ref\Library.dll
+D:\Documents\Projects\HotkeysDemo\WpfLibrary\bin\Debug\net6.0-windows\Library.pdb
+D:\Documents\Projects\HotkeysDemo\WpfLibrary\obj\Debug\net6.0-windows\Library.dll
+D:\Documents\Projects\HotkeysDemo\WpfLibrary\obj\Debug\net6.0-windows\ref\Library.dll
+D:\Documents\Projects\HotkeysDemo\WpfLibrary\obj\Debug\net6.0-windows\Library.pdb
+D:\Documents\Projects\HotkeysDemo\WpfLibrary\obj\Debug\net6.0-windows\Library.csproj.AssemblyReference.cache

@@ -1,0 +1,11 @@
+D:\Documents\Projects\HotKeysDemo\HotKeyManager\bin\Debug\net6.0-windows\HotKeyManager.deps.json
+D:\Documents\Projects\HotKeysDemo\HotKeyManager\bin\Debug\net6.0-windows\HotKeyManager.dll
+D:\Documents\Projects\HotKeysDemo\HotKeyManager\bin\Debug\net6.0-windows\ref\HotKeyManager.dll
+D:\Documents\Projects\HotKeysDemo\HotKeyManager\bin\Debug\net6.0-windows\HotKeyManager.pdb
+D:\Documents\Projects\HotKeysDemo\HotKeyManager\obj\Debug\net6.0-windows\HotKeyManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Projects\HotKeysDemo\HotKeyManager\obj\Debug\net6.0-windows\HotKeyManager.AssemblyInfoInputs.cache
+D:\Documents\Projects\HotKeysDemo\HotKeyManager\obj\Debug\net6.0-windows\HotKeyManager.AssemblyInfo.cs
+D:\Documents\Projects\HotKeysDemo\HotKeyManager\obj\Debug\net6.0-windows\HotKeyManager.csproj.CoreCompileInputs.cache
+D:\Documents\Projects\HotKeysDemo\HotKeyManager\obj\Debug\net6.0-windows\HotKeyManager.dll
+D:\Documents\Projects\HotKeysDemo\HotKeyManager\obj\Debug\net6.0-windows\ref\HotKeyManager.dll
+D:\Documents\Projects\HotKeysDemo\HotKeyManager\obj\Debug\net6.0-windows\HotKeyManager.pdb
